@@ -1,7 +1,7 @@
 import subprocess
 import time
 
-REPO_PATH = r"C:\Users\rhirl\algothon2026"
+REPO_PATH = r"C:\Users\rhirl\man-imperial-algothon-2026"
 BRANCH = "main"
 CHECK_INTERVAL = 10  # seconds
 
